@@ -1,7 +1,7 @@
 ### Hello world! I'm Lufri Rais Maulana.👋
 
 ## I'm Fresh Graduate Developer and also like Gaming!
-- Junior Mobile Developer
+- Junior Front-end(Android & Web) and Back-end Developer
 - Experience in Web Development
 - Knowledge in Machine Learning with Tensorflow
 - Dota2, Valorant, and other Online Game
@@ -17,6 +17,8 @@
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/kotlin/kotlin.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/arduino/arduino.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/arduino/dotnet.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/arduino/go.png" />
 <br />
 <br />
 
