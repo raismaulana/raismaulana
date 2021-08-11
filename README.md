@@ -1,11 +1,11 @@
 ### Hello world! I'm Lufri Rais Maulana.👋
 
 ## I'm Fresh Graduate Developer and also like Gaming!
-- Junior Front-end(Android & Web) and Back-end Developer
-- Experience in Web Development
+- Focusing in Back-end Developer
+- Experience in Web/Android Development
 - Knowledge in Machine Learning with Tensorflow
-- Dota2, Valorant, and other Online Game
-- Currently in learning material design, android jetpack dan mern stack
+- Dota2, CSGO, Valheim and other Online Game (no gacha game)
+- Currently learning CA dan DDD in Golang
 ---
 
 ### Languages:
@@ -19,6 +19,9 @@
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/arduino/arduino.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/dotnet/dotnet.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/go/go.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/postgresql/postgresql.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/mongodb/mongodb.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/mysql/mysql.png" />
 <br />
 <br />
 
