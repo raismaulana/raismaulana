@@ -16,7 +16,7 @@
 ![raismaulana's profile trophy](https://github-profile-trophy.vercel.app/?username=raismaulana&theme=juicyfresh&no-bg=true)
 ---
 
-### <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="30" /> Languages:
+### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" /> Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
