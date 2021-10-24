@@ -23,7 +23,14 @@
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/mongodb/mongodb.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/mysql/mysql.png" />
 <br />
-<br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&layout=compact)
+<br />
+---
+
+### Git Activeness:
 ![raismaulana's github stats](https://github-readme-stats.vercel.app/api?username=raismaulana&count_private=true&show_icons=true&theme=radical)
+<br />
+---
+
+### Git profile Trophies:
+![raismaulana's profile trophy](https://github-profile-trophy.vercel.app/?username=raismaulana&theme=juicyfresh&no-bg=true)
