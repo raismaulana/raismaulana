@@ -1,6 +1,6 @@
 ## Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Lufri Rais Maulana.
 
-## I'm Software Engineer and also like Gaming!
+## <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30px" alt="Programmer"/> I'm Software Engineer and also like Gaming!
 - Focusing in Back-end Developer
 - Experience in Web/Android Development
 - Knowledge in Machine Learning with Tensorflow
@@ -8,15 +8,15 @@
 - Currently learning CA dan DDD in Golang
 ---
 
-### Git Activeness:
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Git Activeness:
 ![raismaulana's github stats](https://github-readme-stats.vercel.app/api?username=raismaulana&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 ---
 
-### Git profile Trophies:
+### <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> Git profile Trophies:
 ![raismaulana's profile trophy](https://github-profile-trophy.vercel.app/?username=raismaulana&theme=juicyfresh&no-bg=true)
 ---
 
-### Languages:
+### <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="30" /> Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
