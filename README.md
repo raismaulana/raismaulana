@@ -1,11 +1,11 @@
 ## Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Lufri Rais Maulana.
 
-## <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30px" alt="Programmer"/> I'm Back End Engineer and also like Gaming!
+## <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30px" alt="Programmer"/> I'm Jr. Back End Engineer and also like Gaming!
 - Focusing in Go
 - Experience in Web/Android Development
 - Knowledge in Machine Learning with Tensorflow
 - Dota2, CSGO, Valheim and other Online Game (no gacha game)
-- Currently learning GRPC and AWS
+- Currently learning Apache Kafka
 ---
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Git Activeness:
