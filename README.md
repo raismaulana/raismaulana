@@ -5,7 +5,7 @@
 - Experience in Web/Android Development
 - Knowledge in Machine Learning with Tensorflow
 - Dota2, CSGO, Valheim and other Online Game (no gacha game)
-- Currently learning Apache Kafka
+- Currently learning Kubernetes
 ---
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Git Activeness:
