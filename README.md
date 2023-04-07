@@ -18,6 +18,8 @@
 
 ### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" /> Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+<br>
+![ariakm25](https://count.getloli.com/get/@raismaulana?theme=rule34)
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -32,3 +34,4 @@
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/postgresql/postgresql.png" />
 <img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/mongodb/mongodb.png" />
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/mysql/mysql.png" />
+
