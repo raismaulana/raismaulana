@@ -1,4 +1,4 @@
-## Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Lufri Rais Maulana.
+## Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Lufri Rais Maulana. 
 
 ## <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30px" alt="Programmer"/> I'm Mid Back End Engineer and also like Gaming!
 - Focusing in Go
@@ -7,6 +7,7 @@
 - Dota2, CSGO, Valheim and other Online Game (no gacha game)
 - Currently learning Kubernetes
 ---
+![visitor counter](https://count.getloli.com/get/@raismaulana?theme=rule34)
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Git Activeness:
 ![raismaulana's github stats](https://github-readme-stats.vercel.app/api?username=raismaulana&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
@@ -18,8 +19,6 @@
 
 ### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" /> Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-<br>
-![ariakm25](https://count.getloli.com/get/@raismaulana?theme=rule34)
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
